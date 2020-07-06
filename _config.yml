@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: Hank Kim
+url: "https://hankyul-kim.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    Hank Kim blog
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: hank.kim@outlook.com
+author: Hank Kim
+profile: Data Analyst
+#twitter_username: John_Grib
+github_username: hankyul-kim
 comment-support: utterances
 
 # Build settings
@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: hankkim90
+  shortname: Hank
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: hankyul-kim/hankyul-kim.github.io
   issue-term: pathname
   label: Comment
   branch: master
